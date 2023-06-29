@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tanishqsatsangi
-- 👀 I’m interested in Android App Development
-- 🌱 I’m currently learning Advanced Android Related Topics, Flutter
-- 💞️ I’m looking to collaborate on Projects, app developemnt, partnered projects, freelancing
+- 👀 I’m interested in Android App Development and looking out for job opportunties in the mobile domain.
+- 🌱 Currently learning hybrid app develoment
+- 💞️ I’m looking to collaborate on Projects/
 - 📫 How to reach me Email-tanishqsatsangi@gmail.com
 
 <!---
